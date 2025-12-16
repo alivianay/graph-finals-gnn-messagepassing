@@ -84,7 +84,7 @@ model.eval()
 - `figures/subgraph2hopneighborhood.png` – neighborhood visualization.
 - `figures/class_distribution.png` – label balance.
 
-### Troubleshooting
+<!-- ### Troubleshooting
 - PyG install issues: re-run installation with the matching CUDA/CPU wheels from `https://data.pyg.org/whl/`.
 - CUDA not found: ensure the PyTorch install matches your NVIDIA driver/CUDA; fall back to CPU by uninstalling the CUDA wheel and installing the CPU-only build.
-- Notebook OOM: reduce `hidden_channels`, drop layers, or switch to CPU to avoid GPU memory fragmentation.
+- Notebook OOM: reduce `hidden_channels`, drop layers, or switch to CPU to avoid GPU memory fragmentation. -->
